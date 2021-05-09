@@ -1,0 +1,2 @@
+# yetkilibasvuru
+yetkili başvuru botu
