@@ -1,0 +1,23 @@
+{
+  "name": "yetkili-basvuru",
+  "version": "0.0.1",
+  "description": "Yetkili başvuru botu.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "fs": "^0.0.2",
+    "quick.db": "^7.1.2"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "yetkili",
+    "basvuru",
+    "yetkili basvuru"
+  ]
+}
